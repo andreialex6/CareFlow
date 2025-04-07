@@ -1,0 +1,69 @@
+{
+    "Gheorghe Ninai": {
+        "problem": "Entorsa la piciorul drept",
+        "recommanded_treatment": [
+            "Gyps",
+            "Antibiotic"
+        ],
+        "Assistant": [
+            "AndreeaPacurar",
+            "Sara23"
+        ],
+        "applied_treatment": [
+            "Gyps",
+            "Antibiotic"
+        ]
+    },
+    "Irinel Macovei": {
+        "problem": "Raceala",
+        "recommanded_treatment": [
+            "Nurofen",
+            "Fervex"
+        ],
+        "Assistant": [
+            "MirelCapusan",
+            "VladParaschiv"
+        ],
+        "applied_treatment": [
+            "Nurofen",
+            "Fervex"
+        ]
+    },
+    "Florin Stan": {
+        "problem": "Gripa",
+        "recommanded_treatment": [
+            "Antibiotic"
+        ],
+        "Assistant": [
+            "Sara23"
+        ],
+        "applied_treatment": []
+    },
+    "Bogdan Laurentiu": {
+        "problem": "Luxatie la mana stanga",
+        "recommanded_treatment": [],
+        "Assistant": []
+    },
+    "Iulia Gavrila": {
+        "problem": "Pietre la rinichi",
+        "recommanded_treatment": [
+            "Citrat de potasiu"
+        ],
+        "Assistant": [
+            "MirelCapusan"
+        ],
+        "applied_treatment": [
+            "Citrat de potasiu"
+        ]
+    },
+    "Costel Dragomirescu": {
+        "problem": "Alergie",
+        "recommanded_treatment": [
+            "Corticosteroizi"
+        ],
+        "Assistant": [
+            "Sara23"
+        ],
+        "applied_treatment": []
+    }
+}

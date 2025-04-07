@@ -1,0 +1,34 @@
+{
+    "Gheorghe Ninai": {
+        "treatments": [
+            {
+                "treatment": "Gyps",
+                "assistant": "Sara23"
+            },
+            {
+                "treatment": "Antibiotic",
+                "assistant": "Sara23"
+            }
+        ]
+    },
+    "Irinel Macovei": {
+        "treatments": [
+            {
+                "treatment": "Nurofen",
+                "assistant": "MirelCapusan"
+            },
+            {
+                "treatment": "Fervex",
+                "assistant": "MirelCapusan"
+            }
+        ]
+    },
+    "Iulia Gavrila": {
+        "treatments": [
+            {
+                "treatment": "Citrat de potasiu",
+                "assistant": "MirelCapusan"
+            }
+        ]
+    }
+}

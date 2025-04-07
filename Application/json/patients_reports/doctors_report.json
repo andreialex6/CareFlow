@@ -1,0 +1,38 @@
+{
+    "CristianDaniel": {
+        "recommanded_treatments": [
+            {
+                "patient": "Irinel Macovei",
+                "recommanded_treatment": "Nurofen"
+            },
+            {
+                "patient": "Irinel Macovei",
+                "recommanded_treatment": "Fervex"
+            },
+            {
+                "patient": "Gheorghe Ninai",
+                "recommanded_treatment": "Gyps"
+            },
+            {
+                "patient": "Iulia Gavrila",
+                "recommanded_treatment": "Citrat de potasiu"
+            },
+            {
+                "patient": "Costel Dragomirescu",
+                "recommanded_treatment": "Corticosteroizi"
+            }
+        ]
+    },
+    "IoanaParaschiv": {
+        "recommanded_treatments": [
+            {
+                "patient": "Florin Stan",
+                "recommanded_treatment": "Antibiotic"
+            },
+            {
+                "patient": "Gheorghe Ninai",
+                "recommanded_treatment": "Antibiotic"
+            }
+        ]
+    }
+}

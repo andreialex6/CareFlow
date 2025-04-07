@@ -1,0 +1,42 @@
+{
+    "FlorinStamate": {
+        "password": "flostm",
+        "role": "Manager"
+    },
+    "CristinaPopeci": {
+        "password": "crispop",
+        "role": "Manager"
+    },
+    "MarianaDanciu": {
+        "password": "medicament",
+        "role": "Doctor"
+    },
+    "CristianDaniel": {
+        "password": "crisdan",
+        "role": "Doctor"
+    },
+    "IoanaParaschiv": {
+        "password": "metroulusor",
+        "role": "Doctor"
+    },
+    "LiviuIon": {
+        "password": "liviu",
+        "role": "Doctor"
+    },
+    "AndreeaPacurar": {
+        "password": "piataunirii",
+        "role": "Assistant"
+    },
+    "Sara23": {
+        "password": "scoala123",
+        "role": "Assistant"
+    },
+    "MirelCapusan": {
+        "password": "mirelcapusan",
+        "role": "Assistant"
+    },
+    "VladParaschiv": {
+        "password": "gigi",
+        "role": "Assistant"
+    }
+}
