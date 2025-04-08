@@ -1,10 +1,8 @@
 # CareFlow
 
-This application is designed to handle main activities in a hospital
-
-Programming language:
-    I implemented this application using Tkinter Gui from Python,
-having a graphical interface for the application.
+CareFlow is an application designed to handle main activities in a hospital.
+It is implemented using Tkinter Gui from Python, having a graphical
+interface for the application.
 
 How to run the application:
     You have to use 'make' command in the 'Application' folder to
