@@ -13,7 +13,7 @@ After you run the application, you have to login with a username and a password.
 
 Implementation description
 -
-*The application is used to handle main activities in a hospital,
+* The application is used to handle main activities in a hospital,
 involving 3 different roles, with different types of accounts:
 Manager, Doctor and Assistant. These accounts with their credentials
 and roles are stored in users.json, where the application will search
