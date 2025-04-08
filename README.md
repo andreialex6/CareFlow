@@ -4,13 +4,15 @@ CareFlow is an application designed to handle main activities in a hospital.
 It is implemented using Tkinter Gui from Python, having a graphical
 interface for the application.
 
-How to run the application:
+How to run the application
+-
     You have to use 'make' command in the 'Application' folder to
 turn on the API. The downloaded reports can be found in 'Downloaded_Reports'
 folder. Users' credentials can be accessed from json/users/users.json.
 After you run the application, you have to login with a username and a password.
 
-Implementation description:
+Implementation description
+-
     This application is used to handle main activities in a hospital,
 involving 3 different roles, with different types of accounts:
 Manager, Doctor and Assistant. These accounts with their credentials
